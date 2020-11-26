@@ -1,6 +1,5 @@
 import { createServer } from 'http';
 import app from './app';
-require('babel-register');
 
 const PORT = 9000;
 
